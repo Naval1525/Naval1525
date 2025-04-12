@@ -1,38 +1,28 @@
-# 👋 Hi there, I’m Naval!  
+# 👋 Sup, I'm Naval!
 
-I am a passionate tech enthusiast from Bennett University (BU'27) with a strong foundation in problem-solving, full-stack development, and cloud computing.  
+MERN specialist & algorithm enthusiast. Building cool stuff @ Bennett Univ CS '27.
 
-## 🚀 About Me  
-- 🖥️ **Tech-Head @ Alan Turing Club (Bennett University)**  
-- 🔧 **Tech-Co-Head @ BC3 (Bennett University)**  
-- 🌟 5⭐️ **HackerRank** | 500+ **LeetCode** | **Java**, **DSA**  
+## 🚀 Tech Stack
+```
+React | Next.js | Node | Express | MongoDB | TypeScript | AWS
+```
 
-## 👀 Interests  
-- Full-Stack Development (MERN)  
-- Cloud Computing (AWS, GCP)  
-- Competitive Programming  
+## 💯 Skills 
+- 🧠 LeetCode beast: 700+ problems (Rating: 1800+)
+- ⚡ Full stack dev with production experience
+- 🌐 Cloud architect (AWS)
 
-## 🌱 Currently Exploring  
-- Advanced **Cloud Computing** concepts and technologies.  
-- **Data Structures and Algorithms** to refine my problem-solving skills.  
+## 💼 Experience
+- **FSTONE Technologies** - Senior Full Stack Dev (Dec 2024-Present)
+- **Sapphire** - Full Stack Engineer (Jan 2024-Present)
+- **Computing Minds** - Full Stack Intern (Oct-Dec 2024)
 
-## 💡 Open to Collaborate On  
-- Full-stack web applications.  
-- Cloud-native projects.  
-- Open-source contributions.  
+## 📫 Connect
+[Email](navalbihani15@gmail.com) • [LinkedIn](linkedin.com/in/navalbihani15) • [Portfolio](cv-nu-eight-22.vercel.app) • [LeetCode](leetcode.com/u/navalbihani15)
 
-## 📫 How to Reach Me  
-- Email: [naval1525@gmail.com](mailto:naval1525@gmail.com)  
-- LinkedIn: [Naval's LinkedIn](https://www.linkedin.com/in/naval1525)  
-- GitHub: [@Naval1525](https://github.com/Naval1525)  
-
-## 😄 Pronouns  
-He/Him  
-
-## ⚡ Fun Fact  
-When I’m not coding, I enjoy exploring tech trends, mentoring peers, and breaking down complex problems into simpler ones!  
-
----
-
-⭐️ Check out my projects and let’s build something awesome together!  
-
+```
+while(alive) {
+  code();
+  repeat();
+}
+```
