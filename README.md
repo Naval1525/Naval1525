@@ -49,22 +49,7 @@ AI-powered agricultural platform with crop recommendations using machine learnin
 - 🥇 **LeetCode Knight** (Rating: 1800+) with **700+ problems solved**
 - 👨‍💼 **Tech Lead** at Alan Turing Club, organizing hackathons and workshops for **200+ students**
 
-## 📊 GitHub Stats
 
-<div align="center">
-  
-![Naval's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naval1525&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naval1525&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naval1525&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ## 💬 Let's Connect!
 
