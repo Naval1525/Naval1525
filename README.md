@@ -1,85 +1,46 @@
 # Hi there, I'm Naval Bihani 👋
 
-**Full Stack Developer** | **Computer Science Student** at Bennett University 🎓
+**Full Stack Developer** • **Go Developer** • **CS Student @ Bennett University**
 
 ## 🚀 About Me
+Passionate full stack developer with **9.3 CGPA** building scalable applications. Currently working as **Go Developer @ Phoenix Labs** and **Full Stack Developer @ FSTONE Technologies**.
 
-I'm a passionate full stack developer currently pursuing my Bachelor of Technology in Computer Science at Bennett University (Expected 2027) with a CGPA of 9.3/10.0. I specialize in building scalable web applications and have experience working with modern technologies across the full development stack.
-
-## 💼 Current Experience
-
-**🔥 Full Stack Developer** - Phoenix Labs (June 2025 - Present)
-- Designing and building scalable backend services and APIs using Golang
-- Focused on high performance, clean architecture, and reliability with databases and distributed systems
-
-**☁️ Full Stack Developer with Cloud Specialization** - FSTONE Technologies (Dec 2024 - Present)
-- Implementing microservices architecture and managing containerized deployments with Docker
-- Designing scalable web applications using modern full-stack technologies
-
-## 🛠️ Technical Skills
-
+## 🛠️ Tech Stack
 ```javascript
 const naval = {
-    languages: ['JavaScript', 'TypeScript', 'Python', 'C++', 'Java', 'Go', 'SQL'],
-    frontend: ['React.js', 'Next.js', 'Redux', 'Material UI', 'Tailwind CSS', 'Bootstrap'],
-    backend: ['Node.js', 'Express.js', 'NestJS', 'Golang', 'RESTful APIs', 'GraphQL'],
-    databases: ['MongoDB', 'PostgreSQL', 'MySQL', 'Redis', 'Elasticsearch', 'Prisma'],
-    cloud: ['AWS (EC2, S3, Lambda, DynamoDB, CloudFront)', 'Docker', 'Git'],
-    testing: ['Jest', 'React Testing Library', 'Cypress'],
-    currentlyLearning: ['Microservices', 'System Design', 'Advanced Algorithms']
+    languages: ['JavaScript', 'TypeScript', 'Go', 'Python', 'Java', 'C++'],
+    frontend: ['React.js', 'Next.js', 'Redux', 'Tailwind CSS'],
+    backend: ['Golang', 'Node.js', 'Express.js', 'NestJS', 'RESTful APIs'],
+    databases: ['MongoDB', 'PostgreSQL', 'MySQL', 'Redis'],
+    cloud: ['AWS', 'Docker', 'Kubernetes', 'Jenkins']
 };
 ```
 
-## 🚀 Featured Projects
+## 🏆 Highlights
+- 🥇 **LeetCode Knight** (1800+ rating) with 800+ problems solved
+- 🚀 Improved API response times by **35%** using optimized Golang services
+- 📊 Built platforms serving **1000+ active users** with **95% satisfaction**
+- 👨‍💼 **Tech Lead** at ATC & **Co-Head** at Cloud Computing Group
 
-### 💼 **[Hirees.com](https://github.com/Naval1525)**
-Professional job platform with advanced search and real-time notifications built using React.js, Node.js, and MongoDB with **1000+ active users**.
+## 🔥 Featured Projects
+- **[Hirees.com](link)** - Professional job platform (1000+ users, React/Node/MongoDB)
+- **[MindMesh](link)** - AI-enhanced mind mapping tool (React/TypeScript)
+- **[Virtual Venture](link)** - Stock market simulation (10k+ daily transactions)
+- **[AI Email](link)** - One-click email replies (80% faster responses)
 
-### 📈 **[Virtual Venture](https://github.com/Naval1525)**
-Trading platform integrated with real market data using React, Node.js, and real-time APIs for stock market simulation and portfolio management.
-
-### 🤖 **[AI Email](https://github.com/Naval1525)**
-One-click AI-powered email reply system using OpenAI API, reducing response time by **80%** and handling **500+ automated responses daily**.
-
-### 🌾 **[Krishi Krew](https://github.com/Naval1525)**
-AI-powered agricultural platform with crop recommendations using machine learning algorithms and weather data integration for farmers.
-
-## 🏆 Achievements
-
-- 🥇 **LeetCode Knight** (Rating: 1800+) with **700+ problems solved**
-- 👨‍💼 **Tech Lead** at Alan Turing Club, organizing hackathons and workshops for **200+ students**
-
-
-
-## 💬 Let's Connect!
-
+## 📊 GitHub Stats
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/navalbihani15)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/navalbihani15)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navalbihani15@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naval1525)
+![Naval's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naval1525&show_icons=true&theme=radical)
 
 </div>
 
-## 📈 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=Naval1525&color=brightgreen&style=flat-square)
+## 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/navalbihani15)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/navalbihani15)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:navalbihani15@gmail.com)
 
 ---
-
 <div align="center">
-
-### ⚡ Fun Fact
-```
-while(alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
-```
-
-**💭 "Code is like humor. When you have to explain it, it's bad."**
-
+<i>⚡ "Clean code always looks like it was written by someone who cares"</i>
 </div>
