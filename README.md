@@ -28,12 +28,6 @@ const naval = {
 - **[Virtual Venture](link)** - Stock market simulation (10k+ daily transactions)
 - **[AI Email](link)** - One-click email replies (80% faster responses)
 
-## 📊 GitHub Stats
-<div align="center">
-
-![Naval's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naval1525&show_icons=true&theme=radical)
-
-</div>
 
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/navalbihani15)
