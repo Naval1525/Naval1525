@@ -3,7 +3,7 @@
 **Full Stack Developer** • **Go Developer** • **CS Student @ Bennett University**
 
 ## 🚀 About Me
-Passionate full stack developer with **9.3 CGPA** building scalable applications. Currently working as **Go Developer @ Phoenix Labs** and **Full Stack Developer @ FSTONE Technologies**.
+Passionate full stack developer with **9.3 CGPA** building scalable applications.
 
 ## 🛠️ Tech Stack
 ```javascript
