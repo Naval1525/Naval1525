@@ -5,6 +5,7 @@
 ## 🚀 About Me
 Passionate full stack developer with **9.3 CGPA** building scalable applications.
 
+
 ## 🛠️ Tech Stack
 ```javascript
 const naval = {
