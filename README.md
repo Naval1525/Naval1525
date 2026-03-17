@@ -19,7 +19,7 @@ const naval = {
 ```
 
 ## 🏆 Highlights
-- 🥇 **LeetCode Knight** (1800+ rating) with 800+ problems solved
+- 🥇 **LeetCode Knight** (1800+ rating) with 1000+ problems solved
 - 🚀 Improved API response times by **35%** using optimized Golang services
 - 📊 Built platforms serving **1000+ active users** with **95% satisfaction**
 - 👨‍💼 **Tech Lead** at ATC & **Co-Head** at Cloud Computing Group
