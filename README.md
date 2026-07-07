@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Naval Bihani 👋</h1>
 
 <p align="center">
-  <b>Full-Stack & Backend Engineer</b> • <b>Go / Node / React</b> • <b>CS @ Bennett University ('27)</b><br>
+  <b>Full-Stack & Backend Engineer</b> • <b>Go / Node / React</b><br>
   SDE Intern @ Scaler AI Labs • LeetCode Knight (1800+) • 1000+ problems solved
 </p>
 
@@ -19,15 +19,15 @@
 
 ## 🚀 About Me
 
-Computer Science undergrad and full-stack engineer who enjoys building scalable REST APIs,
-microservices, and AI-driven applications. Currently applying Reinforcement Learning and ML
-as an **SDE Intern at Scaler AI Labs**, with prior backend work in **Go, Node.js, and TypeScript**.
+Full-stack engineer who enjoys building scalable REST APIs, microservices, and
+AI-driven applications. Currently applying Reinforcement Learning and ML as an
+**SDE Intern at Scaler AI Labs**, with prior backend work in **Go, Node.js, and TypeScript**.
 Strong foundations in Data Structures, Algorithms, and System Design.
 
 - 🔭 Working on RL agents & evaluation tooling in Python/PyTorch
 - 🧱 Comfortable across the stack: React/Next on the front, Go/Node microservices behind it
 - 🧩 LeetCode Knight — 1000+ problems across DP, Graphs, and System Design
-- 📚 B.Tech CS, Bennett University — CGPA 8.45/10 (expected 2027)
+- ⚡ Focused on clean architecture, performance, and shipping real features
 
 ## 🛠️ Tech Stack
 
@@ -91,7 +91,7 @@ const naval = {
 
 <p align="center">
   <a href="https://linkedin.com/in/navalbihani15"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/naval_15"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.instagram.com/naval__15"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://leetcode.com/u/navalbihani15"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
   <a href="mailto:navalbihani15@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
