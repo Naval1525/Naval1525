@@ -67,9 +67,6 @@ const naval = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naval1525&theme=tokyonight" alt="profile summary">
-</p>
-<p align="center">
   <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naval1525&theme=tokyonight" alt="repos per language">
   <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naval1525&theme=tokyonight" alt="most used language">
 </p>
