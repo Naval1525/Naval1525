@@ -55,8 +55,9 @@ const naval = {
 | [**MindMesh**](https://github.com/Naval1525/MindMesh) | React, TypeScript | Real-time collaborative AI mind-mapping tool with 6+ customizable node types |
 | [**Virtual Ventures**](https://github.com/Naval1525/Virtual_Ventures) | React, Node.js | Full-stack stock simulation platform with live market data |
 | [**AI Email**](https://github.com/Naval1525/AI_EMAIL) | Node.js, Gemini API | AI-powered one-click email replies — faster, context-aware responses |
-| [**rate-limiter**](https://github.com/Naval1525/rate-limiter) | Go | Distributed rate limiter exploring token-bucket / sliding-window strategies |
-| [**Devflow_OS**](https://github.com/Naval1525/Devflow_Os) | TypeScript | Developer workflow / productivity platform |
+| [**rate-limiter**](https://github.com/Naval1525/rate-limiter) | Go, Redis, Kafka | Horizontally-scaled token-bucket rate limiter — stateless nodes, atomic Redis+Lua, nginx LB, Prometheus metrics |
+| [**Devflow_OS**](https://github.com/Naval1525/Devflow_Os) | Go, React, Gemini | "Personal OS for dev creators" — clean-architecture Go backend + React/Tailwind front end |
+| [**SystemDesign_**](https://github.com/Naval1525/SystemDesign_) | Notes | 15-day system-design deep-dive, first principles → distributed systems (⭐ 12) |
 | [**bookbay-microservices**](https://github.com/Naval1525/bookbay-microservices) | TypeScript | Microservices-based bookstore backend |
 
 ## 📊 GitHub Stats
