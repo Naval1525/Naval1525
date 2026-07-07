@@ -7,8 +7,12 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/navalbihani15"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/naval_15"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://leetcode.com/u/navalbihani15"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"></a>
   <a href="mailto:navalbihani15@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Naval1525&color=6f42c1&style=flat&label=Profile+Views" alt="views">
+  <a href="https://github.com/Naval1525?tab=followers"><img src="https://img.shields.io/github/followers/Naval1525?style=flat&logo=github&label=Followers&color=6f42c1" alt="followers"></a>
 </p>
 
 ---
@@ -63,11 +67,17 @@ const naval = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Naval1525&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naval1525&layout=compact&hide_border=true&theme=tokyonight" alt="top langs">
+  <img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naval1525&theme=tokyonight" alt="profile summary">
+</p>
+<p align="center">
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naval1525&theme=tokyonight" alt="repos per language">
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naval1525&theme=tokyonight" alt="most used language">
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naval1525&hide_border=true&theme=tokyonight" alt="streak">
+</p>
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Naval1525&theme=tokyo-night&hide_border=true&area=true" alt="activity graph">
 </p>
 
 ## 🏆 Highlights
@@ -76,6 +86,15 @@ const naval = {
 - ⚡ **~35% faster** API responses via optimized Golang microservices at LeapFrog
 - 👨‍🏫 **Tech Lead, Alan Turing Club** & **Cloud Computing Co-Head** — ran hackathons for 200+ students and AWS/Docker/K8s workshops for 100+
 - 📣 **Tech content creator** — 22,000+ community following around programming, engineering & AI
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/navalbihani15"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/naval_15"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://leetcode.com/u/navalbihani15"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="mailto:navalbihani15@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
